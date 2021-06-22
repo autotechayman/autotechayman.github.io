@@ -84,47 +84,47 @@ new picccccccc */
 }
 
 .photos--bakhour:nth-child(2) {
-  background: url('/Image/car1.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(3) {
-  background: url('/Image/car2.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car2.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(4) {
-  background: url('/Image/car3.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car3.jpg');
   background-size: cover;
 }
 
 .photos:nth-child(5) {
-  background: url('/Image/car1.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(6) {
-  background: url('/Image/car2.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car2.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(7) {
-  background: url('/Image/car3.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car3.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(8) {
-  background: url('/Image/car1.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(9) {
-  background: url('/Image/car2.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car2.jpg');
   background-size: cover;
 }
 
 .photos--bakhour:nth-child(10) {
-  background: url('/Image/car1.jpg');
+  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
   background-size: cover;
 }
 @media screen and (max-width: 600px) {
