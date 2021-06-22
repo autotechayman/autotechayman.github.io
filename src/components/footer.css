@@ -1,0 +1,48 @@
+#footer {
+  background-color: #343436;
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+   font-weight: bold;
+  padding-bottom: 1px;
+  border-radius: 15px;
+ height: 100px;
+ 
+}
+
+.SocialIcon {
+  height: 28px;
+  border-radius: 7px;
+
+ 
+}
+
+#IconList {
+  display: flex;
+  padding-left: 48%;
+
+  
+ 
+}
+#IconList li {
+  margin: 0 10px;
+} 
+.Credits {
+  margin-top: 10px;
+  width: 100vw;
+  text-align: center;
+  float: center;
+}
+
+ol {
+  list-style: none;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
