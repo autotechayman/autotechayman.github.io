@@ -18,28 +18,28 @@ export default class Products extends React.Component {
 
 <div className>
 <div class="row">
-<div class="col">
+<div class="column">
 <img  src='/Image/car4.jpg' id="row-pic"/>
 </div>
 
 
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/car5.webp' id="row-pic"column/>
 </div>
 
 
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/car6.jpg' id="row-pic"/>
 
 </div>
 
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/car7.jpg' id="row-pic"/>
 </div>
 </div>
@@ -57,57 +57,57 @@ export default class Products extends React.Component {
 
 
 <div class="row">
-<div class="col">
+<div class="column">
 <img  src='/Image/range1.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">Before</p1>
 </div>
 
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/range2.jpg' id="row-pic"/><p1 className="title-header-bakhour1">After</p1>
 </div>
 
 
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/range5.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">Before</p1>
 {/* <p className="title-header-bakhour">oil serum hybrid</p> */}
 </div>
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/range6.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">After</p1>
 {/* <p className="title-header-bakhour">conditioning face wash</p> */}
 </div>
 
-<div class="row">
 
-<div class="col">
+
+<div class="column">
 <img  src='/Image/range7.jpg' id="row-pic"/><p1 className="title-header-bakhour1">Before</p1>
 {/* <p className="title-header-bakhour">eye+lip plumping cream</p> */}
 </div>
 
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/range8.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">After</p1>
 {/* <p className="title-header-bakhour">buildable hydrating creme</p> */}
 </div>
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/range11.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">Before</p1>
 {/* <p className="title-header-bakhour">acid face serum</p> */}
 </div>
 
 
-<div class="col">
+<div class="column">
 <img  src='/Image/range12.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">After</p1>
 
@@ -115,7 +115,7 @@ export default class Products extends React.Component {
 </div>
 </div>
 </div>
-</div>
+
 
 
    
