@@ -192,8 +192,8 @@ width:100px ;
  } 
  .column {
   float: left;
-  width: 20%;
-  height: 460px; 
+  width: 60%;
+  height: 400px; 
   margin: 33px;
   justify-content: center;
   text-align: center;
