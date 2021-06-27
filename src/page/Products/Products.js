@@ -84,7 +84,7 @@ export default class Products extends React.Component {
 {/* <p className="title-header-bakhour">conditioning face wash</p> */}
 </div>
 
-
+<div class="row">
 
 <div class="col">
 <img  src='/Image/range7.jpg' id="row-pic"/><p1 className="title-header-bakhour1">Before</p1>
@@ -111,6 +111,7 @@ export default class Products extends React.Component {
 <img  src='/Image/range12.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">After</p1>
 
+</div>
 </div>
 </div>
 </div>
