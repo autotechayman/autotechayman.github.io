@@ -10,7 +10,7 @@ import Home from './page/home/home'
 //import Orders from './page/Admin/Orders'
 
 
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 //import EventsA from "./page/Admin/Events"
 import Scroll from './components/Scroll'
 //import ProductsA from './page/Admin/productA'
@@ -21,7 +21,7 @@ import Scroll from './components/Scroll'
 
     return (
 
-      <BrowserRouter>
+      <Router>
          
         <div className="App">
           <Navbar />
@@ -37,7 +37,7 @@ import Scroll from './components/Scroll'
          </div>
         <Footer />
        {/* <Scroll/> */}
-      </BrowserRouter>
+      </Router>
 
     );
   }
