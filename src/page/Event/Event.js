@@ -14,10 +14,10 @@ class Events extends Component {
   <div>
   <img src="https://cdn4.iconfinder.com/data/icons/basic-user-interface-elements/700/mail-letter-offer-256.png" alt="icon"/>
    </div>
-  <input type="text" placeholder="Name (required)" required/>
-  <input type="text" placeholder="Return address (required)" required/>
-  <input type="text" placeholder="Topic (required)" required/>
-  <textarea placeholder="Subject (required)" required></textarea>
+  <input type="text" placeholder="Full Name:" required/>
+  <input type="text" placeholder="Email:" required/>
+  <input type="text" placeholder="phone number:" required/>
+  <textarea placeholder="Messages:" required></textarea>
   <input type="submit" value="Send"/>
 </form>
 

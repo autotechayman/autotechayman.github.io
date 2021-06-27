@@ -1,9 +1,7 @@
 
 
 
-.Bakhour--products {
-  background-color: rgb(170, 168, 165);
-}
+
 .row{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -13,10 +11,11 @@
   font-weight: bold;
   font-size:1.3em;
   padding-top:10%;
+  text-align: center;
  }
  .title-header-bakhour-skincare {
- font-size: 1.3em;
- padding-left: 5%;
+  font-size: 1.3em;
+  padding-left: 5%;
   padding-top:0;
   font-weight: bold;
  }
@@ -25,7 +24,7 @@
   font-weight: 600;
   padding-left: 10px;
   padding-top: 10px; 
- padding-bottom: 0;
+  padding-bottom: 0;
  }
 
  .header {
@@ -35,7 +34,7 @@
   z-index: 800;
  }
  .top-alert {
-  background-color: rgb(250,242,244);
+  
   padding: 8px;
   text-align: center;
  }
@@ -58,7 +57,7 @@
   align-items: center;
   height: 48px;
   z-index: 800;
-  background: rgb(255, 255, 255);
+ 
  }
  .menu>div {
   max-width: 1270px;
@@ -81,7 +80,7 @@
   align-items: center;
   justify-content: center;
   height: 39px;
-  background-color: white;
+ 
  }
  .option>div {
    max-width: 150px;
@@ -95,7 +94,7 @@
   transition: all .3s ease;
  }
  .option>div:hover {
-  background-color: #DDD; 
+  
   cursor: pointer;
   border: 1px solid grey;
  }
@@ -197,7 +196,6 @@
   text-align: center;
   text-align: left;
   font-size: 0.8em;
-  background-color: #FAFAFA;
  }
  
  .row:after {

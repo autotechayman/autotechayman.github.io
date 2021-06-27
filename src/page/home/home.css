@@ -25,118 +25,104 @@ new picccccccc */
 .main--bakhour{
     width: 95%;
     margin: 40px auto;
-    border-radius: 20px;
+    border-radius: 50px;
   
 }
 
-.tittle-bakhour-header{
-  box-shadow: 5px 5px 8px #cecece, -5px -5px 8px #f2f2f2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 100px;
-  margin-bottom: 30px;
-  border-radius: 10px;
- height: 80px;
- width: 90%;
- margin-left: 80px;
- 
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 
 
+#main{
+    background:#702525;
+    width: 95%;
+    margin: 50px auto;
+    border-radius: 25px;
+    padding-bottom: 20px;
+}
 
+h1{
+    padding: 20px;
+}
 
-.tittle-bakhour-container {
-  font-size: 3em;
-  padding: 30px;
-  margin: 30px;
+#title{
+    max-width: 95%;
+    margin: auto;
+    text-align: center;
+}
+
+#img-div{
+    padding: 20px;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+#img-div img{
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    border-radius: 150px;
 }
 
 
 
-.galerie--bakhour {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+#tribute-info{
+    text-align: justify;
+    max-width: 95%;
+    margin: auto;
+    line-height: 26px;
 }
 
-.photos--bakhour {
-  box-shadow: 1px -1px 30px 0px rgba(0, 0, 0, 0.3);
-  border-radius: 10px;
-  margin: 20px;
-  min-width: 475px;
-  min-height: 375px;
-  flex-shrink:0;
+.li-text{
+    list-style-type: none;
+    padding: 20px;
+    background: #702525;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-style: double;
+    font-family: cursive;
+    color: black;
+    font-size:40px ;
+   
 }
 
-.photos--bakhour:hover {
-  cursor: pointer;
-  transform: scale(1.05);
-  transition: 400ms;
-  opacity: 0.9;
-}
-
-.photos--bakhour:nth-child(1) {
-  background: url('/Image/car2.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(2) {
-  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(3) {
-  background: url('https://autotechayman.github.io/website/Image/car2.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(4) {
-  background: url('https://autotechayman.github.io/website/Image/car3.jpg');
-  background-size: cover;
-}
-
-.photos:nth-child(5) {
-  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(6) {
-  background: url('https://autotechayman.github.io/website/Image/car2.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(7) {
-  background: url('https://autotechayman.github.io/website/Image/car3.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(8) {
-  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(9) {
-  background: url('https://autotechayman.github.io/website/Image/car2.jpg');
-  background-size: cover;
-}
-
-.photos--bakhour:nth-child(10) {
-  background: url('https://autotechayman.github.io/website/Image/car1.jpg');
-  background-size: cover;
-}
-@media screen and (max-width: 600px) {
-  .photos--bakhour {
-    min-width: 290px;
-    min-height: 190px;
-}
+.image-bakhour {
+  width: 50%;
+  height: 50%;
   
-@media screen and (max-width: 320px) {
-  .photos--bakhour {
-    min-width: 220px;
-    min-height: 120px;
 }
+
+
+
+.wordart.rainbow .text {
+  background: -webkit-linear-gradient(left, #b306a9, #ef2667, #f42e2c, #9d0303, #9d0303, #55ac2f, #9d0303, #a804af);
+  background: -o-linear-gradient(left, #b306a9, #ef2667, #f42e2c, #9d0303, #9d0303, #55ac2f, #9d0303, #a804af);
+  background: -moz-linear-gradient(left, #b306a9, #ef2667, #f42e2c, #9d0303, #9d0303, #55ac2f, #9d0303, #a804af);
+  background: linear-gradient(to right, #b306a9, #ef2667, #f42e2c, #9d0303, #9d0303, #55ac2f, #9d0303, #a804af); 
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-left: 25%;
+  font-size: 45px;
+  font-family: cursive;
 }
+
+.main-titile-tech {
+  font-family: cursive;
+  color: black;
+  font-size: 50px;
+
 }
+

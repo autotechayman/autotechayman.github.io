@@ -1,7 +1,7 @@
 
 
 .contact-us-bakhour {
-  background-color: rgb(170, 168, 165);
+ 
   height:100vh;
   display: flex;
   justify-content: center;
@@ -44,7 +44,13 @@
   margin: 12px auto;
   border: 1px solid #ccc;
   color: #ddd;
-  background-color: #222;
+  background: radial-gradient(
+    45% 85% at 65% 65%,
+    rgba(13, 58, 216, 0.8) 0%,
+    rgba(0, 0, 0, 0) 100%
+  ),
+  radial-gradient(35% 70% at 35% 50%, #9d0303 0%, rgba(0, 0, 0, 0) 79.09%),
+  #000000;
   border-radius: 4px;
   display: block;
   width: 70vw;
@@ -64,5 +70,5 @@
 }
 
 .form-bakhour > input[type="submit"]:hover {
-  background-color: #555;
+  background-color: #9d0303 ;
 }

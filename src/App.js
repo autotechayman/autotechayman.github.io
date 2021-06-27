@@ -26,7 +26,6 @@ import Scroll from './components/Scroll'
         <div className="App">
           <Navbar />
           <Switch>
-          
             <Route path="/products" component={Nproducts} />
            
             <Route path="/News" component={News} />

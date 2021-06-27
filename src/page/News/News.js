@@ -9,20 +9,32 @@ class News extends Component {
     render() {
     return (
       <div className="bakhour--about-us">
-    <div class="about-section-bakhour">
-  <div class="inner-container-bakhour">
-    <h1>About Us</h1>
-    <p class="text">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit ducimus, enim inventore earum, eligendi nostrum pariatur necessitatibus eius dicta a voluptates sit deleniti autem error eos totam nisi neque voluptates sit deleniti autem error eos totam nisi neque.
-    </p>
-    <div class="skills">
-      <span>Web Design</span>
-      <span>Photoshop & Illustrator</span>
-      <span>Coding</span>
-    </div>
+   <main>
+  <section class="lp">
+    <section class="lp__header">
+    <h1>News</h1>
+    <p>All the latest news about your favorite artists and releases.</p>
+    </section>
+    
+<section class="lp__grid">
+  <div class="lp__gridItem lp__gridItem__image">
   </div>
-</div>
-      </div>
+    <div class="lp__gridItem lp__gridItem__text">
+      <p class="lp__gridItemText-sm">News</p>
+      <h2 class="lp__gridItemText-lg">Melody Moore, Artist in the Spotlight</h2>
+      <p class="lp__gridItemText-md">New DSD Release! "An American Song Album". This album is a fine collection of songs by America composers presented...</p>
+      <p class="lp__gridItemText-sm lp__gridItemText-sm-bw"><strong>Floor van der Holst</strong> on May 02, 2019</p>
+  </div>
+    </section>
+      
+  
+
+</section>    
+                   
+     </main>
+
+     </div>
+  
     );
   }
 }
