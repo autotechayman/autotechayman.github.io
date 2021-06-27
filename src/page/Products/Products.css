@@ -190,7 +190,7 @@ width:100px ;
   margin: 10px;
   display: inline-block;
  } 
- .column {
+ .col {
   float: left;
   width: 60%;
   height: 400px; 
@@ -208,7 +208,7 @@ width:100px ;
   
  }
  @media screen and (max-width: 600px) {
-  .column{
+  .col{
   width:45%;
   height: 330px;
   margin-bottom: 5px; 
