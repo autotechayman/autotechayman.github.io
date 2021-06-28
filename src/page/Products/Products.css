@@ -136,10 +136,12 @@ width:100px ;
  .section {
   border: 1px solid;
  }
+
+
  @media (max-width: 768px) {
-  .container {
+  /* .container {
   grid-template-columns: none;
- }
+ } */
   .text-box {
   padding-bottom: 10vh;
  }
@@ -209,11 +211,13 @@ width:100px ;
  }
  @media screen and (max-width: 600px) {
   .column{
-  width:100px;
+  width:90px;
   height: 330px;
   margin-bottom: 5px; 
   margin-left: 15px;
   margin-right: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
  
  }
  }
