@@ -209,13 +209,12 @@ width:100px ;
  }
  @media screen and (max-width: 600px) {
   .column{
-  width:45%;
+  width:200px;
   height: 330px;
   margin-bottom: 5px; 
   margin-left: 15px;
   margin-right: 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+ 
  }
  }
  #row-pic {
