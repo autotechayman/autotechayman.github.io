@@ -219,6 +219,8 @@ width:100px ;
  #row-pic {
   height: 80%;
   width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   
  }
  
