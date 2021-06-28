@@ -8,55 +8,7 @@ export default class Products extends React.Component {
  render(){
    return(
      <div className="Bakhour--products">
-<div class="container">
-	<div class="gallery">
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />		
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-    <img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-    <img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-    <img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
-	</div> 
-</div>
-
-<div id="myModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-body">
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{/* <div className="wrapper">
+<div className="wrapper">
      <header>
 <div className="wrapper-text-box">
 <p className="title-header-bakhour">Our Work and designs before and after </p>
@@ -157,7 +109,7 @@ export default class Products extends React.Component {
 
 </div>
 </div>
-</div> */}
+</div>
 </div>
 
 
