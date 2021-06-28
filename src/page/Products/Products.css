@@ -214,13 +214,14 @@ width:100px ;
   margin-bottom: 5px; 
   margin-left: 15px;
   margin-right: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
  }
  }
  #row-pic {
   height: 80%;
   width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+ 
   
  }
  
