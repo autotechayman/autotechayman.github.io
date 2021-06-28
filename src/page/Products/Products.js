@@ -8,7 +8,55 @@ export default class Products extends React.Component {
  render(){
    return(
      <div className="Bakhour--products">
-<div className="wrapper">
+<div class="container">
+	<div class="gallery">
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />		
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+		<img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+    <img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+    <img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+    <img src="/Image/car4.jpg" alt="" width="100%" height="auto" class="gallery-img" />
+	</div> 
+</div>
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{/* <div className="wrapper">
      <header>
 <div className="wrapper-text-box">
 <p className="title-header-bakhour">Our Work and designs before and after </p>
@@ -74,21 +122,18 @@ export default class Products extends React.Component {
 <div className="column">
 <img  src='/Image/range5.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">Before</p1>
-{/* <p className="title-header-bakhour">oil serum hybrid</p> */}
 </div>
 
 
 <div className="column">
 <img  src='/Image/range6.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">After</p1>
-{/* <p className="title-header-bakhour">conditioning face wash</p> */}
 </div>
 
 
 
 <div className="column">
 <img  src='/Image/range7.jpg' id="row-pic"/><p1 className="title-header-bakhour1">Before</p1>
-{/* <p className="title-header-bakhour">eye+lip plumping cream</p> */}
 </div>
 
 
@@ -96,14 +141,13 @@ export default class Products extends React.Component {
 <div class="column">
 <img  src='/Image/range8.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">After</p1>
-{/* <p className="title-header-bakhour">buildable hydrating creme</p> */}
 </div>
 
 
 <div class="column">
 <img  src='/Image/range11.jpg' id="row-pic"/>
 <p1 className="title-header-bakhour1">Before</p1>
-{/* <p className="title-header-bakhour">acid face serum</p> */}
+
 </div>
 
 
@@ -113,7 +157,7 @@ export default class Products extends React.Component {
 
 </div>
 </div>
-</div>
+</div> */}
 </div>
 
 
