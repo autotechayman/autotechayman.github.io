@@ -8,7 +8,8 @@ export default class Products extends React.Component {
  render(){
    return(
      <div className="Bakhour--products">
-<div className="wrapper">
+       <p>our Work</p>
+{/* <div className="wrapper">
      <header>
 <div className="wrapper-text-box">
 <p className="title-header-bakhour">Our Work and designs before and after </p>
@@ -109,7 +110,7 @@ export default class Products extends React.Component {
 
 </div>
 </div>
-</div>
+</div> */}
 </div>
 
 
