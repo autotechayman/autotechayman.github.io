@@ -22,7 +22,7 @@ class home extends React.Component {
       <figure id="img-div">
         <img
           id="image"
-          src='/Image/car1.jpg'
+          src='/Image/home.jpg'
           alt="pic"
           className="image-bakhour"
         />
