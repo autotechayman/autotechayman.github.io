@@ -38,24 +38,7 @@
   }
 
 
-  @media (max-width:360px) {
-    .image-product-bakhour {
-      width: 100px; 
-      height: 50px; 
-    }
-    .Bakhour--products {
-      display: grid;
-      grid-template-columns: 1fr 1fr ;
-      margin-bottom: 10px;
-      grid-gap: 6px;
-      margin-left: 5px;
-      margin-right: 5px;
-    }
-
-   }
-
-
-   @media (max-height:640px) {
+  @media (max-width:767px){
     .image-product-bakhour {
       width: 100px; 
       height: 50px; 
