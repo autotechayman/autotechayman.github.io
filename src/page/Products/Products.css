@@ -26,6 +26,7 @@
     text-align: center;
     font-family: arial;
     max-height: 300px;
+   
   }
 
   .john-bakhour {
@@ -40,7 +41,7 @@
   @media (max-width:767px){
     .image-product-bakhour {
       width: 100px; 
-      height: 100px; 
+      height: 50px; 
     }
     .Bakhour--products {
       display: grid;
