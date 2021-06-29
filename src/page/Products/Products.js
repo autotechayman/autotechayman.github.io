@@ -17,63 +17,63 @@ export default class Products extends React.Component {
      <div className="Bakhour--products">
       
        <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/range1.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/index.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
-  <h1 className="john-bakhour">John Doe</h1>
-</div>
-
-
-<div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/range11.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/range12.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 
-
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/index1.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/index2.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/range3.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/range4.jpg' alt="John" />
+  <h1 className="john-bakhour">John Doe</h1>
+</div>
+
+
+
+<div class="card">
+  <img src='/Image/range4.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 
 
 <div class="card">
-  <img src='/Image/car1.jpg' alt="John" />
+  <img src='/Image/range4.jpg' alt="John" />
   <h1 className="john-bakhour">John Doe</h1>
 </div>
 

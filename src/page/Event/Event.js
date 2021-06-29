@@ -10,7 +10,7 @@ class Events extends Component {
     render() {
         return (
           <div className="contact-us-bakhour">
-              <form className="form-bakhour">
+              <form className="form-bakhour" action="https://formspree.io/forms">
   <div>
   <img src="https://cdn4.iconfinder.com/data/icons/basic-user-interface-elements/700/mail-letter-offer-256.png" alt="icon"/>
    </div>
