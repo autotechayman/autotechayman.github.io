@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   margin-top: 60px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   grid-gap: 20px;
 }
 
@@ -11,8 +11,8 @@
     text-align: center;
     font-size: 30px;
     font-family:cursive ;
-    padding-top: 30px;
-   color: #1a0202;
+   color: whitesmoke;
+  
   }
 
   .image-product-bakhour {
@@ -23,9 +23,10 @@
     box-shadow: 5px 5px 5px 5px rgb(183, 183, 216);
     max-width: 300px;
     margin-top: 10px;
+   
     text-align: center;
     font-family: arial;
-    max-height: 250px;
+    max-height: 300px;
   }
 
   .john-bakhour {
