@@ -16,7 +16,9 @@ export default function header() {
 <div className="header-nav-bakhour">
     <Navbar collapseOnSelect expand="lg" bg=" " variant=" ">
       <Navbar.Brand  > <img alt="logo" src='/Image/logo.jpg' className='logo' /></Navbar.Brand>
-      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+      <Navbar.Toggle aria-controls="responsive-navbar-nav">
+        <p className="navbar-toggler-icon">...</p>
+      </Navbar.Toggle>
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto" >
           <Nav.Link ><NavLink exact to="/"> <a className="link5">Home</a></NavLink></Nav.Link>

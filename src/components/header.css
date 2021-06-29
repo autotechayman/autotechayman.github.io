@@ -15,9 +15,8 @@
  background-color: gainsboro;
  
 }
-.navbar-toggler-icon::after{
- color: red;
- content: ' ...';
+.navbar-toggler-icon{
+  color: red;
   font-size: 60px;
   margin-bottom: 15px;
 }
