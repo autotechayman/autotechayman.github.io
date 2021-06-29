@@ -17,7 +17,7 @@
 }
 .navbar-toggler-icon::after{
  color: red;
- content: ' \2026';
+ content: ' ...';
   font-size: 60px;
   margin-bottom: 15px;
 }
