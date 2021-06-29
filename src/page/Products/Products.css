@@ -16,8 +16,8 @@
   }
 
   .image-product-bakhour {
-    width: 200px;
-    height: 250px;
+    width: 100%;
+    height:auto;
   }
   .card {
     box-shadow: 5px 5px 5px 5px rgb(9, 9, 10);
@@ -40,8 +40,8 @@
 
   @media (max-width:767px){
     .image-product-bakhour {
-      width: 100px; 
-      height: 50px; 
+      width: 100%;
+      height: auto;
     }
     .Bakhour--products {
       display: grid;
