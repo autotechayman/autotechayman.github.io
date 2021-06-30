@@ -42,16 +42,18 @@
 .lp__grid {
   display: grid;
   width: 100%;
-  
- 
 }
+
+/* .name--lp {
+  padding-top: 30px;
+  color: #ffffff;
+} */
 
 .lp__gridItem__image {
   /* background: #ccc; */
   grid-row: 1/4;
   grid-column: 1/3;
-  height: 660px;
- 
+  height: 600px;
   background: url('/Image/home.jpg')no-repeat center center;
 }
 .lp__gridItem__text {
@@ -85,7 +87,7 @@
 
 .lp__gridItem__image {
     
-  margin-top: -150px;
+  margin-top: -80px;
    
    
   }

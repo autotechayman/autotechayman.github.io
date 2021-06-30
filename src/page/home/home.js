@@ -31,11 +31,13 @@ class home extends React.Component {
       <section id="tribute-info">
         <h3 id="headline" className="main-titile-tech">Our services:</h3>
         <ul>
-          <li className="li-text">- Car Repairs.</li>
+          <li className="li-text">-Repair of all types of cars.</li>
           <li className="li-text"> - Car Paint.</li>
-          <li className="li-text">- Car Body Paint.</li>
+          <li className="li-text">- Car Polishing.</li>
           <li className="li-text">- Car Washing.</li>
           <li className="li-text">- Car Interior Wash.</li>
+          <li className="li-text">- Car Mechanic.</li>
+          <li className="li-text">- Car electricity.</li>
           </ul>
        </section> 
     </main>

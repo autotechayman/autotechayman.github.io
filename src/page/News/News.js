@@ -10,20 +10,20 @@ class News extends Component {
     return (
       <div className="bakhour--about-us">
    <main>
-  <section class="lp">
-    <section class="lp__header">
-    <h1>News</h1>
-    <p>All the latest news about your favorite artists and releases.</p>
+  <section className="lp">
+    <section className="lp__header">
+    {/* <h1 className="name--lp" >Bakhour</h1> */}
+    {/* <p>All the latest news about your favorite artists and releases.</p> */}
     </section>
     
 <section class="lp__grid">
   <div class="lp__gridItem lp__gridItem__image">
   </div>
     <div class="lp__gridItem lp__gridItem__text">
-      <p class="lp__gridItemText-sm">News</p>
-      <h2 class="lp__gridItemText-lg">Melody Moore, Artist in the Spotlight</h2>
-      <p class="lp__gridItemText-md">New DSD Release! "An American Song Album". This album is a fine collection of songs by America composers presented...</p>
-      <p class="lp__gridItemText-sm lp__gridItemText-sm-bw"><strong>Floor van der Holst</strong> on May 02, 2019</p>
+      <p class="lp__gridItemText-sm">Bakhour Auto tech</p>
+      <h2 class="lp__gridItemText-lg">Bakhour Company was established in 2011</h2>
+      <p class="lp__gridItemText-md">Al-Bukhoury Company aims to develop damaged car structures through careful repair and restore them correctly and with a guarantee. Until now, we are cooperating with many insurance companies and aspire to the best and highest....</p>
+      <p class="lp__gridItemText-sm lp__gridItemText-sm-bw"><strong>Our company leads itself to development and prosperity .</strong> </p>
   </div>
     </section>
       
