@@ -27,7 +27,7 @@ export default function header() {
           <Nav.Link ><NavLink to="/Events"><a className="link5">Contact</a></NavLink></Nav.Link>
  
         </Nav>
-        <p className='num' > +961-76-503500 <FiPhoneCall  className="call"/></p>  
+        <p className='num' > +961-76-503500 <FiPhoneCall  className="call"/></p>    
       </Navbar.Collapse>
     </Navbar>
 

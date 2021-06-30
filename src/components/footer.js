@@ -10,7 +10,8 @@ class footer extends React.Component {
             <div id="footer">
                 <hr/>
                 
-                <p>Copyright &copy; 2020 BACHOUR AUTO TECH All Rights Reserved</p>
+                <p>Copyright &copy; 2020 BACHOUR AUTO TECH All Rights Reserved (01_367223)</p>
+               
                 <div class="InnerSection">
            
             <ol id='IconList'>
