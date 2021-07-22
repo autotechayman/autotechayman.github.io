@@ -22,8 +22,10 @@ class News extends Component {
     <div class="lp__gridItem lp__gridItem__text">
       <p class="lp__gridItemText-sm">Bakhour Auto tech</p>
       <h2 class="lp__gridItemText-lg">Bakhour Company was established in 2011</h2>
-      <p class="lp__gridItemText-md">Al-Bukhoury Company aims to develop damaged car structures through careful repair and restore them correctly and with a guarantee. Until now, we are cooperating with many insurance companies and aspire to the best and highest....</p>
-      <p class="lp__gridItemText-sm lp__gridItemText-sm-bw"><strong>Our company leads itself to development and prosperity .</strong> </p>
+      <p class="lp__gridItemText-md">Al-Bukhour Company aims to develop damaged car structures through careful repair and restore them correctly and with a guarantee. Until now, we are cooperating with many insurance companies and aspire to the best and highest....</p>
+      <p class="lp__gridItemText-sm lp__gridItemText-sm-bw"><strong>Our company leads itself to development and prosperity .    
+        
+        </strong> </p>
   </div>
     </section>
       

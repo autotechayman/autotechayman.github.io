@@ -41,13 +41,11 @@ class home extends React.Component {
           </ul>
        </section> 
     </main>
-     
-
     </main>
 
 
-
-            </div>
+    
+  </div>
           
            
         );
